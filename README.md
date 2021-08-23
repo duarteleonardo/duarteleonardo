@@ -19,4 +19,3 @@ MySQL<br />
 Docker
 </p>
 
-[![Blog Badge](https://img.shields.io/badge/Instagram-%40__duarteleo-blue)](https://www.instagram.com/_duarteleo/?hl=pt-br)
